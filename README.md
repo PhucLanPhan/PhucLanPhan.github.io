@@ -63,7 +63,7 @@ img {
 
   <p id="loinoi"> Love To Thao Nguyen</p>
 
-  <img src="Downloads/hun hun.jpeg" alt="Thao Nguyen" style="width:150px;height:200px;">
+  <img src="hun hun.jpeg" alt="Thao Nguyen" style="width:150px;height:200px;">
 
   <script>
 
