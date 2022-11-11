@@ -43,7 +43,7 @@ p {
     position:absolute;
     color: pink;
     font: bold;
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 14cm;
     margin-top: 10%;
 }
