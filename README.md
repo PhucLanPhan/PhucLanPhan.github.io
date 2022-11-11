@@ -50,7 +50,7 @@ canvas {
 
 img {
     margin-top: 32%;
-    margin-left: 17cm;
+    margin-left: 18cm;
 }
   </style>
 
