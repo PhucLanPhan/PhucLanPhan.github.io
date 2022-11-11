@@ -39,18 +39,18 @@ canvas {
 
 }
 
-p {
+#loinoi {
     position:absolute;
     color: pink;
     font: bold;
     font-size: 40px;
     margin-left: 14cm;
-    margin-top: 10%;
+    margin-top: 40%;
 }
 
 img {
-    margin-top: 20%;
-    margin-left: 14cm;
+    margin-top: 28%;
+    margin-left: 17cm;
 }
   </style>
 
