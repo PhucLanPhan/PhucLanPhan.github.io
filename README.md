@@ -6,8 +6,6 @@
  <HEAD>
 
   <TITLE> New Document </TITLE>
-  
-  <p id="loinoi"> anh yeu em </p>
 
   <META NAME="Generator" CONTENT="EditPlus">
 
@@ -41,6 +39,19 @@ canvas {
 
 }
 
+p {
+    position:absolute;
+    color: pink;
+    font: bold;
+    font-size: 50px;
+    margin-left: 14cm;
+    margin-top: 10%;
+}
+
+img {
+    margin-top: 20%;
+    margin-left: 14cm;
+}
   </style>
 
  </HEAD>
@@ -49,6 +60,10 @@ canvas {
  <BODY>
 
   <canvas id="pinkboard"></canvas>
+
+  <p id="loinoi"> Love To Thao Nguyen</p>
+
+  <img src="Downloads/hun hun.jpeg" alt="Thao Nguyen" style="width:150px;height:200px;">
 
   <script>
 
