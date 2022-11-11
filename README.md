@@ -45,11 +45,11 @@ canvas {
     font: bold;
     font-size: 40px;
     margin-left: 14cm;
-    margin-top: 40%;
+    margin-top: 45%;
 }
 
 img {
-    margin-top: 28%;
+    margin-top: 32%;
     margin-left: 17cm;
 }
   </style>
@@ -63,7 +63,7 @@ img {
 
   <p id="loinoi"> Love To Thao Nguyen</p>
 
-  <img src="hun hun.jpeg" alt="Thao Nguyen" style="width:150px;height:200px;">
+  <img src="312894944_1324782014926797_5140965602639938252_n.jpeg" alt="Thao Nguyen" style="width:120px;height:200px;">
 
   <script>
 
